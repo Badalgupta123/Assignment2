@@ -1,3 +1,4 @@
+react-version "react": "^18.2.0",
 # Usage
 Install dependencies (Tailwind)
 ```bash
